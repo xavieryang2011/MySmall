@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.example.appmain"
+    },
+    {
+      "uri": "lib.style",
+      "pkg": "com.example.libstyle"
+    }
+  ]
+}
